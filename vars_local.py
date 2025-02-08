@@ -1,0 +1,3 @@
+NUM_CLASSES = 6
+START_POSITION_BINS = 10
+TRAIN_PATH = "./data_set/clean.csv"
